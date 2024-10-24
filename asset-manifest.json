@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/halloween/static/css/main.890d57ae.css",
+    "main.js": "/halloween/static/js/main.0f42149d.js",
+    "static/media/hat.svg": "/halloween/static/media/hat.38c7000ac189960b84f6e92f9a6d03ed.svg",
+    "static/media/ghost.svg": "/halloween/static/media/ghost.0bb49260ab9f595e98391d90de201889.svg",
+    "static/media/frankenstein.svg": "/halloween/static/media/frankenstein.dc6ab42aefd9a15849a4d73c847bcffd.svg",
+    "static/media/pumpkin.svg": "/halloween/static/media/pumpkin.76daa6377f70397c8802d32fe84f91f8.svg",
+    "static/media/bat-orange.svg": "/halloween/static/media/bat-orange.8e4e3a5485521ca9bcd6.svg",
+    "static/media/bat.svg": "/halloween/static/media/bat.64766c6d156646ef20a2.svg",
+    "static/media/backgroung.svg": "/halloween/static/media/backgroung.78e80003a4cdade2e54f.svg",
+    "static/media/neon.svg": "/halloween/static/media/neon.fb236ba8df65d70868216d0462a71033.svg",
+    "index.html": "/halloween/index.html",
+    "main.890d57ae.css.map": "/halloween/static/css/main.890d57ae.css.map",
+    "main.0f42149d.js.map": "/halloween/static/js/main.0f42149d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890d57ae.css",
+    "static/js/main.0f42149d.js"
+  ]
+}
