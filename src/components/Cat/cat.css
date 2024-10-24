@@ -1,0 +1,9 @@
+.animationWrapper {
+  width: 300px;
+  height: 300px;
+}
+.cat-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
